@@ -13,6 +13,7 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee"/>
  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ ![Snake animation](https://github.com/Hypexra/Hypexra/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hypexra&layout=compact)](https://github.com/Hypexra/github-readme-stats)
